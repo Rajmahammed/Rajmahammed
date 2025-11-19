@@ -73,6 +73,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rajmahammed&theme=tokyonight&type=png)
 
 
+
 ---
 
 ## 🐍 Contribution Graph Animation  
@@ -80,16 +81,6 @@
 
 ---
 
-## 👁 Visitor Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=Rajmahammed&color=blue&style=for-the-badge)
-
----
-
-## 📂 Featured Projects  
-> Add your best projects here.  
-> I can format these into a beautiful grid if you want.
-
----
 
 ## ✨ Random Dev Quote  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
