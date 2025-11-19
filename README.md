@@ -70,9 +70,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajmahammed&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Rajmahammed&theme=tokyonight&type=png)
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Rajmahammed&theme=tokyonight&type=svg)
 
 ---
 
